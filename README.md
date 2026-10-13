@@ -230,4 +230,4 @@ This repository serves as the official landing page for FeyWriter. The software 
 **Get the most recent version of FeyWriter today!**
 
 ---
-**Last updated:** 2026-10-13 10:13:43 UTC
+**Last updated:** 2026-10-13 17:59:56 UTC
